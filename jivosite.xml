@@ -11,7 +11,7 @@
   <description><![CDATA[PLG_JIVOSITE_XML_DESCRIPTION]]></description>
   <files>
 	<folder>language</folder>
-    <filename plugin="SunStat">SunStat.php</filename>
+    <filename plugin="SunStat">jivosite.php</filename>
     <filename>index.html</filename>
   </files>
   <languages>
@@ -23,7 +23,7 @@
   <config>
     <fields name="params" >
       <fieldset name="Basic">
-		<field name="enabled" type="radio" class="btn-group btn-group-yesno" default="0" label="PLG_SYS_SS_YM_ENABLED" description="PLG_SYS_SS_ENABLED_DESC">
+		<field name="enabled" type="radio" class="btn-group btn-group-yesno" default="0" label="PLG_SYS_JIVOSITE_ENABLED" description="PLG_JIVOSITE_ENABLED_DESC">
               <option value="0">JNo</option>
               <option value="1">JYes</option>
 		</field> 
