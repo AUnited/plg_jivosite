@@ -1,6 +1,6 @@
 <?php
 # @version		$version 0.1 Amvis United Company Limited  $
-# @copyright	Copyright (C) 2014 AUnited Co Ltd. All rights reserved.
+# @copyright	Copyright (C) 2016 AUnited Co Ltd. All rights reserved.
 # @license		Jivosite plugin licensed under Apache v2.0, see LICENSE
 # Updated		14st August 2016
 #
