@@ -1,7 +1,7 @@
 <?php
-# @version		$version 0.7 Amvis United Company Limited  $
+# @version		$version 0.1 Amvis United Company Limited  $
 # @copyright	Copyright (C) 2014 AUnited Co Ltd. All rights reserved.
-# @license		SunStat has been originally created by Vitaliy Zhukov under GNU/GPL and relicensed under Apache v2.0, see LICENSE
+# @license		Jivosite plugin licensed under Apache v2.0, see LICENSE
 # Updated		14st August 2016
 #
 # Site: http://aunited.ru
@@ -25,7 +25,7 @@ class plgSystemSunStat extends JPlugin
 	function plgSunStat(&$subject, $config)
 	{		
 		parent::__construct($subject, $config);
-		$this->_plugin = JPluginHelper::getPlugin( 'system', 'SunStat' );
+		$this->_plugin = JPluginHelper::getPlugin( 'system', 'jivosite' );
 		$this->_params = new JParameter( $this->_plugin->params );
 	}
 	
