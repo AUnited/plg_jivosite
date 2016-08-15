@@ -12,7 +12,7 @@
   <description><![CDATA[PLG_JIVOSITE_XML_DESCRIPTION]]></description>
   <files>
 	<folder>language</folder>
-    <filename plugin="SunStat">jivosite.php</filename>
+    <filename plugin="jivosite">jivosite.php</filename>
     <filename>index.html</filename>
   </files>
   <languages>
@@ -33,6 +33,6 @@
     </fields>
   </config>
     <updateservers>
-        <server type="extension" priority="1" name="Jivosite"><![CDATA[http://help.aunited.ru/jivosite/update/jivosite-update.xml]]></server>
+        <server type="extension" priority="1" name="jivosite"><![CDATA[http://help.aunited.ru/jivosite/update/jivosite-update.xml]]></server>
     </updateservers>
 </extension>
