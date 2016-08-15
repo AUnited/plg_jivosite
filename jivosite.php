@@ -20,9 +20,9 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 
 jimport( 'joomla.plugin.plugin');
 
-class plgSystemSunStat extends JPlugin
+class plgSystemjivosite extends JPlugin
 {
-	function plgSunStat(&$subject, $config)
+	function plgjivosite(&$subject, $config)
 	{		
 		parent::__construct($subject, $config);
 		$this->_plugin = JPluginHelper::getPlugin( 'system', 'jivosite' );
