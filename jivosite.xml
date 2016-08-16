@@ -24,7 +24,7 @@
   <config>
     <fields name="params" >
       <fieldset name="Basic">
-		<field name="enabled" type="radio" class="btn-group btn-group-yesno" default="0" label="PLG_SYS_JIVOSITE_ENABLED" description="PLG_JIVOSITE_ENABLED_DESC">
+		<field name="enabled" type="radio" class="btn-group btn-group-yesno" default="0" label="PLG_SYS_JIVOSITE_ENABLED" description="PLG_SYS_JIVOSITE_ENABLED_DESC">
               <option value="0">JNo</option>
               <option value="1">JYes</option>
 		</field> 
