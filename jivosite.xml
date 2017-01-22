@@ -8,7 +8,7 @@
   <authorUrl>http://aunited.ru</authorUrl>
   <version>0.1</version>
   <copyright>Copyright (c) 2016 AUnuted Co. Ltd. All rights reserved.</copyright>
-  <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+  <license>https://opensource.org/licenses/MIT</license>
   <description><![CDATA[PLG_JIVOSITE_XML_DESCRIPTION]]></description>
   <files>
 	<folder>language</folder>
