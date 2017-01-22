@@ -52,13 +52,9 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 		//is it enabled?
 		$javascript='';
         if ($enabled)	$javascript= $javascript.$script;
-
-
 		$buffer = preg_replace ("/<\/body>/", $javascript."\n\n</body>", $buffer);
-		
 		//output the buffer
 		JResponse::setBody($buffer);
-		
 		return true;
 	}
 }
