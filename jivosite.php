@@ -1,8 +1,8 @@
 <?php
-# @version		$version 0.1 Amvis United Company Limited  $
-# @copyright	Copyright (C) 2016 AUnited Co Ltd. All rights reserved.
+# @version		$version 0.2 Amvis United Company Limited  $
+# @copyright	Copyright (C) 2017 AUnited Co Ltd. All rights reserved.
 # @license		Jivosite plugin licensed under MIT, see LICENSE
-# Updated		14st August 2016
+# Updated		22nd August 2017
 #
 # Site: http://aunited.ru
 # Email: info@aunited.ru
