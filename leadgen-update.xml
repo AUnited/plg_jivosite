@@ -8,7 +8,7 @@
       <type>plugin</type>
       <version>0.1</version>
  
-      <infourl title="SunStat URL">http://help.aunited.ru/jivosite/</infourl>
+      <infourl title="Jivosite URL">http://help.aunited.ru/jivosite/</infourl>
       <downloads>
          <downloadurl type="full" format="zip">https://github.com/AUnited/plg_jivosite/archive/0.1.zip</downloadurl>
       </downloads>
